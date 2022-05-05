@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\2022_jsp_workspace\pstmt0504\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1183849612.index
+\Project0504\src
